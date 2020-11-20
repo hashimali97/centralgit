@@ -1,3 +1,16 @@
- //////////////////////
- file to test github 2
- 
+/////////////////////////////////////////
+  sudo apt-get install git
+  git --version
+  git config --global user.name "Hashim ALI"
+  git config --global user.email "hashimali786@gmail.com"
+  cd gittest
+  mkdir gittest
+  cd gittest
+  git init
+  touch README 
+  gedit README 
+  git add .
+  git commit -m "1st commit/.."
+  git remote add origin https:
+  git push origin master
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
